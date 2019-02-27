@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+[Try](https://github.com/luisgc2116/Blog/Posts/Project1_Rec_Sys.md
+      )
+
 You can use the [editor on GitHub](https://github.com/luisgc2116/Blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
