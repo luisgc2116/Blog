@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Try](https://github.com/luisgc2116/Blog/Posts/try1.md
+[Try](https://github.com/luisgc2116/Blog/Posts/try.md
       )
 
 You can use the [editor on GitHub](https://github.com/luisgc2116/Blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
